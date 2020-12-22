@@ -5,8 +5,10 @@
 
    - 데이터 출처 : https://github.com/e9t/nsmc.git
    - 참고 코드 : https://github.com/deepseasw/bert-naver-movie-review
-                https://github.com/monologg/KoBERT-Transformers
-                https://github.com/SKTBrain/KoBERT
+   
+https://github.com/monologg/KoBERT-Transformers
+
+https://github.com/SKTBrain/KoBERT
    
                 
 
@@ -17,3 +19,4 @@
                 https://github.com/deepseasw/bert-naver-movie-review
                 
 
+  
