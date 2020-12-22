@@ -10,9 +10,10 @@
    
                 
 
-#### 2. 영어
-
-    - 데이터 출처 : http://doraemon.iis.sinica.edu.tw/emotionlines/index.html
-    - 참고코드 : https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
+### 2. 영어
+   - 데이터 출처 : ttp://doraemon.iis.sinica.edu.tw/emotionlines/index.html
+   - 참고 코드 : https://www.coursera.org/projects/sentiment-analysis-bert
+                https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
                 https://github.com/deepseasw/bert-naver-movie-review
-                https://www.coursera.org/projects/sentiment-analysis-bert
+                
+
