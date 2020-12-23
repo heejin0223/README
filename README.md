@@ -8,6 +8,7 @@
 ######   - https://github.com/deepseasw/bert-naver-movie-review
 ######   - https://github.com/monologg/KoBERT-Transformers
 ######   - https://github.com/SKTBrain/KoBERT
+######   - https://github.com/kimwoonggon/publicservant_AI
    
                 
 
@@ -17,6 +18,7 @@
 ######   - https://www.coursera.org/projects/sentiment-analysis-bert
 ######   - https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
 ######   - https://github.com/deepseasw/bert-naver-movie-review
+######   - https://www.kaggle.com/gauravs90/keras-bert-toxic-model-bert-fine-tuning-with-keras
                 
 
   
