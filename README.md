@@ -20,6 +20,4 @@
 >  > ######   - https://colab.research.google.com/drive/1EMzEfTYjYLgEHjCCP1vEr9oOZLXMocGh?usp=sharing
 >  > ######   - https://github.com/deepseasw/bert-naver-movie-review
 >  > ######   - https://www.kaggle.com/gauravs90/keras-bert-toxic-model-bert-fine-tuning-with-keras
-                
-
-  
+> ######   - BertTokenizer, BertForSequenceClassification, AdamW Optimizer
